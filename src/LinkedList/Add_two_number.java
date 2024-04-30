@@ -10,7 +10,7 @@ class Node {
     }
 }
 
-public class add_two_number {
+public class Add_two_number {
     static Node addTwoLists(Node num1, Node num2){
         // code here
         // return head of sum list

@@ -1,0 +1,10 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“î‹şÿÿÿÿ8†Ïòò1J$f07be24d-b3b5-4941-8bb9-862190baa94b
+“	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÃÒÄ8†Ïòò1J$ad7dfdcc-0300-4d89-b8ae-fbfd48906f1c
+˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸òÿÿÿÿÿ8†Ïòò1J$6412b4e6-67ee-4e42-8a7e-61c2c53ac577
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§äê¹J$365b80fe-5ed8-48d3-9dc1-9f057ae99c94
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ÃŠ™úÿÿÿÿJ$fa84b44b-95d6-43e1-a1ff-9ca28bb8430d
+}
+java:S1118":Add a private constructor to hide the implicit public one.(§äê¹8Êõ‚òò1J$bd1dbac7-b293-47bd-9019-99302e788b15
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŞÖ£öúÿÿÿÿ8™ö‚òò1J$22b52e6e-84d9-4b9f-9921-41ee955ee84e
