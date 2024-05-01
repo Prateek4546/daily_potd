@@ -1,10 +1,10 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“î‹şÿÿÿÿ8†Ïòò1J$f07be24d-b3b5-4941-8bb9-862190baa94b
-“	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÃÒÄ8†Ïòò1J$ad7dfdcc-0300-4d89-b8ae-fbfd48906f1c
-˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸òÿÿÿÿÿ8†Ïòò1J$6412b4e6-67ee-4e42-8a7e-61c2c53ac577
-ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§äê¹J$365b80fe-5ed8-48d3-9dc1-9f057ae99c94
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ÃŠ™úÿÿÿÿJ$fa84b44b-95d6-43e1-a1ff-9ca28bb8430d
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“î‹şÿÿÿÿ8†Ïòò1J$67277a73-d410-4687-acb4-79cd33bc4514
+“	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÃÒÄ8†Ïòò1J$40eecb2c-b5d9-4159-ad5f-7ce1c8e8cfd7
+˜	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸òÿÿÿÿÿ8†Ïòò1J$60ebffd5-4a84-44fa-95d9-555a307afea2
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§äê¹J$dfdf111f-5971-442e-ae0b-0b413c77c269
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ÃŠ™úÿÿÿÿJ$b30811cc-2a57-40e8-ad5a-d89d98de6265
 }
-java:S1118":Add a private constructor to hide the implicit public one.(§äê¹8Êõ‚òò1J$bd1dbac7-b293-47bd-9019-99302e788b15
+java:S1118":Add a private constructor to hide the implicit public one.(§äê¹8Êõ‚òò1J$0ccb6d98-db94-4b44-9103-28c54988b77b
 š
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŞÖ£öúÿÿÿÿ8™ö‚òò1J$22b52e6e-84d9-4b9f-9921-41ee955ee84e
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŞÖ£öúÿÿÿÿ8™ö‚òò1J$5293729d-0c14-4d18-87e3-3d0f3f3caf5e
