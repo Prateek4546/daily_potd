@@ -15,7 +15,5 @@ a
 1src/LinkedList/Arrange_consonants_and_vowels.java,1\d\1dc882b970e14eede9048313c04ff1d741aebf32
 H
 src/LinkedList/Node.java,2\b\2bac0bc870ded06b49dbca78bbe59ee5a34169fd
-e
-5src/Tree/Serialize_and_deserialize_a_binary_tree.java,2\0\20ef7347633b2eb0e2c909d8a155283a88ccc7d5
 g
 7src/TreeDS/Serialize_and_deserialize_a_binary_tree.java,0\1\01b05a9bbfd9c4d332c23e1a3bb09a9edec59a80
